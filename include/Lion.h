@@ -1,7 +1,8 @@
 #ifndef LION_H
 #define LION_H
 
-#include "Animal.h"
+# include "Animal.h"
+
 
 class Lion : public Animal
 {
